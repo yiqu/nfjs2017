@@ -1,2 +1,2 @@
 # nfjs2017
-NFJS 2017 notes
+NFJS 2017 notes.
